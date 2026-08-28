@@ -86,26 +86,30 @@ Promotions generated a 10.77% increase in average units sold, from roughly 24.92
 This indicates that promotions are associated with additional demand. However, this estimate is descriptive because promotion assignment was not randomized and has not yet been adjusted for all possible confounding factors, such as product mix, store characteristics, seasonality, and inventory constraints.
 
 2. Deep Discounts Produce More Volume
+
 Sales uplift increased as discount depth increased. Higher discounts produced the strongest sales lift, but they did not generate better financial returns.
 
 
 This demonstrates a key trade-off: demand response rises with discount depth, while profitability worsens.
 
-4. Lower Discounts Have the Best ROI
+3. Lower Discounts Have the Best ROI
+
 All discount groups had negative incremental ROI under the project assumptions, but lower discounts were materially less unprofitable than deeper discounts.
 
 
 
 The high-discount segment generated the largest unit-sales increase, but its estimated incremental profit was negative before accounting for discount cost, resulting in the weakest ROI
 
-6. Grocery Shows the Strongest Category Response
+4. Grocery Shows the Strongest Category Response
+
 Promotional responsiveness varied by category. Grocery showed the strongest estimated promotional lift, while Personal Care showed the weakest response.
 
 
 
 This suggests promotions should not be deployed uniformly across the product portfolio. Categories with strong response can be prioritized for carefully designed price tests, while low-response categories may require alternative tactics such as bundles, loyalty offers, or improved merchandising.
 
-7. Store Performance Is Highly Uneven
+5. Store Performance Is Highly Uneven
+
 Promotional uplift varied substantially across the 50 stores. The best-performing stores achieved estimated sales lifts of approximately 46.20% and 43.58%, while several stores experienced negative lift, with the weakest store declining by approximately 10.18% during promotions.
 
 
