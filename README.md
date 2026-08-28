@@ -63,6 +63,7 @@ Promoted observations averaged 27.60 units sold, compared with 24.92 units for n
 The analysis used the following logic:
 
 Incremental Profit = Promotional Profit − Baseline Profit
+
 Incremental ROI = (Incremental Profit − Promotion Cost )/ Promotion Cost × 100
 
 This emphasizes profitability rather than revenue or volume alone.
