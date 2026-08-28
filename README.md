@@ -136,7 +136,7 @@ Create three store segments based on historical promotional lift:
 
   3. Restrict: Stores with zero or negative promotional uplift.
 
-For example, stores 27 and 46 were among the strongest performers, while several stores showed negative promotional lift.
+  For example, stores 27 and 46 were among the strongest performers, while several stores showed negative promotional lift.
   
 * Introduce Holdout Testing
 The current analysis compares promoted and non-promoted records, which is useful for exploratory analysis but does not prove causality. NorthStar Retail should assign comparable store-product groups into:
