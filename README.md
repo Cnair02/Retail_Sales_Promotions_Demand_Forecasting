@@ -79,6 +79,7 @@ The key implication is that promotions successfully drive demand, but the discou
 ## Insights gathered
 
 1. Promotions Drive Incremental Demand
+
 Promotions generated a 10.77% increase in average units sold, from roughly 24.92 to 27.60 units per observation.
 
 
