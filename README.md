@@ -25,14 +25,14 @@ The data cleaning and EDA has been performed with tools using Python, Pandas and
 
 | Metric                   | Value                                 |
 | ------------------------ | ------------------------------------- |
-| Analysis period          | January 1 to December 31, 2024 kaggle |
-| Total records            | 2,800 kaggle                          |
-| Stores                   | 50 kaggle                             |
-| Product categories       | 5 kaggle                              |
-| Promotion-active records | 1,430 kaggle                          |
-| Non-promotion records    | 1,370 kaggle                          |
-| Discount range           | 0% to 30% kaggle                      |
-| Missing values           | None identified kaggle                |
+| Analysis period          | January 1 to December 31, 2024  |
+| Total records            | 2,800                           |
+| Stores                   | 50                              |
+| Product categories       | 5                               |
+| Promotion-active records | 1,430                           |
+| Non-promotion records    | 1,370                           |
+| Discount range           | 0% to 30%                       |
+| Missing values           | None identified                 |
 
 Prior to the beginning of the analysis, data cleaning and variety of checks were conducted for quality control and familiarization with the dataset.
 
@@ -79,19 +79,30 @@ The key implication is that promotions successfully drive demand, but the discou
 1. Promotions Drive Incremental Demand
 Promotions generated a 10.77% increase in average units sold, from roughly 24.92 to 27.60 units per observation.
 
+
 This indicates that promotions are associated with additional demand. However, this estimate is descriptive because promotion assignment was not randomized and has not yet been adjusted for all possible confounding factors, such as product mix, store characteristics, seasonality, and inventory constraints.
 
 2. Deep Discounts Produce More Volume
-Sales uplift increased as discount depth increased. Higher discounts produced the strongest sales lift, but they did not generate better financial returns. This demonstrates a key trade-off: demand response rises with discount depth, while profitability worsens.
+Sales uplift increased as discount depth increased. Higher discounts produced the strongest sales lift, but they did not generate better financial returns.
 
-3. Lower Discounts Have the Best ROI
-All discount groups had negative incremental ROI under the project assumptions, but lower discounts were materially less unprofitable than deeper discounts. The high-discount segment generated the largest unit-sales increase, but its estimated incremental profit was negative before accounting for discount cost, resulting in the weakest ROI
 
-4. Grocery Shows the Strongest Category Response
+This demonstrates a key trade-off: demand response rises with discount depth, while profitability worsens.
+
+4. Lower Discounts Have the Best ROI
+All discount groups had negative incremental ROI under the project assumptions, but lower discounts were materially less unprofitable than deeper discounts.
+
+
+
+The high-discount segment generated the largest unit-sales increase, but its estimated incremental profit was negative before accounting for discount cost, resulting in the weakest ROI
+
+6. Grocery Shows the Strongest Category Response
 Promotional responsiveness varied by category. Grocery showed the strongest estimated promotional lift, while Personal Care showed the weakest response.
+
+
+
 This suggests promotions should not be deployed uniformly across the product portfolio. Categories with strong response can be prioritized for carefully designed price tests, while low-response categories may require alternative tactics such as bundles, loyalty offers, or improved merchandising.
 
-5. Store Performance Is Highly Uneven
+7. Store Performance Is Highly Uneven
 Promotional uplift varied substantially across the 50 stores. The best-performing stores achieved estimated sales lifts of approximately 46.20% and 43.58%, while several stores experienced negative lift, with the weakest store declining by approximately 10.18% during promotions.
 
 
@@ -119,11 +130,11 @@ For Personal Care and other low-response segments, test non-price tactics first,
 Build a Store-Level Promotion Strategy
 Create three store segments based on historical promotional lift:
 
-1. Scale: Stores with consistently high incremental lift and acceptable profit outcomes.
+  1. Scale: Stores with consistently high incremental lift and acceptable profit outcomes.
 
-2. Optimize: Stores with moderate lift where discount depth, product mix, or timing can be improved.
+  2. Optimize: Stores with moderate lift where discount depth, product mix, or timing can be improved.
 
-3. Restrict: Stores with zero or negative promotional uplift.
+  3. Restrict: Stores with zero or negative promotional uplift.
 
 For example, stores 27 and 46 were among the strongest performers, while several stores showed negative promotional lift.
   
