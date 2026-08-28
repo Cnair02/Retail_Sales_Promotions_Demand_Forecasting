@@ -81,6 +81,7 @@ The key implication is that promotions successfully drive demand, but the discou
 1. Promotions Drive Incremental Demand
 
   Promotions generated a 10.77% increase in average units sold, from roughly 24.92 to 27.60 units per observation.
+<img width="592" height="535" alt="Screenshot 2026-08-27 at 9 09 22 PM" src="https://github.com/user-attachments/assets/d229dfaf-d2a0-447b-9c70-ea693d4340b3" />
 
 
   This indicates that promotions are associated with additional demand. However, this estimate is descriptive because promotion assignment was not randomized and has not yet been adjusted   for all possible confounding factors, such as product mix, store characteristics, seasonality, and inventory constraints.
@@ -88,6 +89,7 @@ The key implication is that promotions successfully drive demand, but the discou
 2. Deep Discounts Produce More Volume
 
 Sales uplift increased as discount depth increased. Higher discounts produced the strongest sales lift, but they did not generate better financial returns.
+<img width="773" height="603" alt="Screenshot 2026-08-27 at 9 07 21 PM" src="https://github.com/user-attachments/assets/5b9ded5f-7684-4c2d-900f-9e81d3f7a986" />
 
 
 This demonstrates a key trade-off: demand response rises with discount depth, while profitability worsens.
@@ -96,6 +98,7 @@ This demonstrates a key trade-off: demand response rises with discount depth, wh
 
 All discount groups had negative incremental ROI under the project assumptions, but lower discounts were materially less unprofitable than deeper discounts.
 
+<img width="755" height="603" alt="Screenshot 2026-08-27 at 9 07 38 PM" src="https://github.com/user-attachments/assets/5a8f3abd-65d9-4463-afb9-5d8677cfd52a" />
 
 
 The high-discount segment generated the largest unit-sales increase, but its estimated incremental profit was negative before accounting for discount cost, resulting in the weakest ROI
@@ -104,6 +107,7 @@ The high-discount segment generated the largest unit-sales increase, but its est
 
 Promotional responsiveness varied by category. Grocery showed the strongest estimated promotional lift, while Personal Care showed the weakest response.
 
+<img width="755" height="560" alt="Screenshot 2026-08-27 at 9 07 54 PM" src="https://github.com/user-attachments/assets/3a901063-e4f6-4424-8966-372159c14074" />
 
 
 This suggests promotions should not be deployed uniformly across the product portfolio. Categories with strong response can be prioritized for carefully designed price tests, while low-response categories may require alternative tactics such as bundles, loyalty offers, or improved merchandising.
@@ -112,12 +116,16 @@ This suggests promotions should not be deployed uniformly across the product por
 
 Promotional uplift varied substantially across the 50 stores. The best-performing stores achieved estimated sales lifts of approximately 46.20% and 43.58%, while several stores experienced negative lift, with the weakest store declining by approximately 10.18% during promotions.
 
+<img width="726" height="584" alt="Screenshot 2026-08-27 at 9 08 24 PM" src="https://github.com/user-attachments/assets/87a32080-79c0-4828-9dab-726ed8568925" />
 
 This variation shows that blanket promotions are inefficient. Store-level targeting could reduce spend in locations where promotions do not create incremental demand.
   
 ## Recommendation
 
 * Use Lower Discounts as the Default Test
+
+<img width="629" height="489" alt="Screenshot 2026-08-27 at 9 08 58 PM" src="https://github.com/user-attachments/assets/57402ca0-833f-4b30-bf58-e45b25d15e23" />
+
 Begin with low-discount campaigns rather than high-discount campaigns. Low discounts generated a positive sales lift of 4.38% while producing the least negative ROI of the three tested discount bands. Use larger discounts only when there is a specific strategic reason, such as inventory clearance, customer acquisition, a seasonal event, or vendor-funded promotions.
   
 * Shift from Sales KPIs to Incremental Profit KPIs
