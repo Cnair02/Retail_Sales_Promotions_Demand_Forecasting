@@ -80,10 +80,10 @@ The key implication is that promotions successfully drive demand, but the discou
 
 1. Promotions Drive Incremental Demand
 
-Promotions generated a 10.77% increase in average units sold, from roughly 24.92 to 27.60 units per observation.
+  Promotions generated a 10.77% increase in average units sold, from roughly 24.92 to 27.60 units per observation.
 
 
-This indicates that promotions are associated with additional demand. However, this estimate is descriptive because promotion assignment was not randomized and has not yet been adjusted for all possible confounding factors, such as product mix, store characteristics, seasonality, and inventory constraints.
+  This indicates that promotions are associated with additional demand. However, this estimate is descriptive because promotion assignment was not randomized and has not yet been adjusted   for all possible confounding factors, such as product mix, store characteristics, seasonality, and inventory constraints.
 
 2. Deep Discounts Produce More Volume
 
