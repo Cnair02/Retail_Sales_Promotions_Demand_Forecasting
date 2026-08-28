@@ -88,6 +88,7 @@ The key implication is that promotions successfully drive demand, but the discou
 2. Deep Discounts Produce More Volume
 
 Sales uplift increased as discount depth increased. Higher discounts produced the strongest sales lift, but they did not generate better financial returns.
+
 <img width="773" height="603" alt="Screenshot 2026-08-27 at 9 07 21 PM" src="https://github.com/user-attachments/assets/5b9ded5f-7684-4c2d-900f-9e81d3f7a986" />
 
 <img width="592" height="535" alt="Screenshot 2026-08-27 at 9 09 22 PM" src="https://github.com/user-attachments/assets/d229dfaf-d2a0-447b-9c70-ea693d4340b3" />
