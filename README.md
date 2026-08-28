@@ -9,6 +9,7 @@ The business regularly runs price promotions to increase demand, clear inventory
 This project evaluates promotional performance using 2024 retail sales data containing store, product, date, category, price, promotion status, discount percentage, units sold, inventory level, and day-of-week fields. The analysis includes 2,800 records with 1,430 promoted observations and 1,370 non-promoted observations.
 
 Business Questions
+
 Do promotions create incremental sales, rather than simply sales that would have occurred anyway?
 
 Which discount levels produce the strongest sales uplift?
