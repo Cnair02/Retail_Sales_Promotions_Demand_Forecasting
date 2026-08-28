@@ -141,11 +141,11 @@ For example, stores 27 and 46 were among the strongest performers, while several
 * Introduce Holdout Testing
 The current analysis compares promoted and non-promoted records, which is useful for exploratory analysis but does not prove causality. NorthStar Retail should assign comparable store-product groups into:
 
-Treatment group: Receives a promotion.
+  Treatment group: Receives a promotion.
 
-Control group: Does not receive the promotion.
+  Control group: Does not receive the promotion.
 
-This design will better distinguish true incremental sales from normal demand, seasonality, product popularity, or store-level differences.
+  This design will better distinguish true incremental sales from normal demand, seasonality, product popularity, or store-level differences.
   
 # Business Impact
 This analysis demonstrates that NorthStar Retail’s promotions increased unit demand by 10.77%, but the estimated overall incremental ROI was -95.30% after discount cost under the stated assumptions.
