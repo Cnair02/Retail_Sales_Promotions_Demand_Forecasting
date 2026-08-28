@@ -112,6 +112,19 @@ Promotional responsiveness varied by category. Grocery showed the strongest esti
 
 This suggests promotions should not be deployed uniformly across the product portfolio. Categories with strong response can be prioritized for carefully designed price tests, while low-response categories may require alternative tactics such as bundles, loyalty offers, or improved merchandising.
 
+But ROI chart shows, 
+
+
+<img width="726" height="584" alt="Screenshot 2026-08-27 at 9 08 38 PM" src="https://github.com/user-attachments/assets/28adcd4c-2c54-4221-9a2f-4c73f51532d3" />
+
+
+
+A category with a better ROI bar is less unprofitable, not necessarily profitable, if all bars remain below zero.
+
+A category may have strong incrementality but weak ROI because discount cost rises faster than incremental profit.
+
+This is particularly important for Grocery: it can lead the incrementality chart but still require a lower discount depth to become commercially viable.
+
 5. Store Performance Is Highly Uneven
 
 Promotional uplift varied substantially across the 50 stores. The best-performing stores achieved estimated sales lifts of approximately 46.20% and 43.58%, while several stores experienced negative lift, with the weakest store declining by approximately 10.18% during promotions.
