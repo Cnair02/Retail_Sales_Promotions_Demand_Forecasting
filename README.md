@@ -122,7 +122,7 @@ Discount cost
 Incremental ROI
 Performance against a comparable non-promoted control group
 
-A campaign that creates sales volume but destroys margin should be redesigned or stopped.
+  A campaign that creates sales volume but destroys margin should be redesigned or stopped.
   
 * Target High-Response Categories
 Prioritize controlled promotional tests in Grocery and Electronics, which showed the highest observed sales lift.
